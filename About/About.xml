@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Natsuha's RimPatches</name>
+    <author>Natsuha SG</author>
+    <url></url>
+    <supportedVersions>
+        <li>1.4</li>
+    </supportedVersions>
+    <modVersion>1.0</modVersion>
+    <packageId>NatsuhaSG.NatsuhasRimPatches</packageId>
+    <description>This mod contains various balancing and compatibility patches.</description>
+    <modDependencies>
+    </modDependencies>
+    <incompatibleWith>
+    </incompatibleWith>
+    <loadBefore>
+    </loadBefore>
+    <loadAfter>
+        <li>botchjob.divineorder</li>
+    </loadAfter>
+
+</ModMetaData>
